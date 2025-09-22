@@ -12,12 +12,12 @@ This project uses a Raspberry Pi, a camera, and a TensorFlow Lite model to perfo
 
 **Team Members:**
 
-- **MEMBER_1** - 2023UME4179 - [@USERNAME](https://github.com/AaryaRatnam)
-- **MEMBER_2** - 2023UEE4605- [@USERNAME](https://github.com/VivianakaVivek)
-- **MEMBER_3** - 2023UEE4635 - [@USERNAME](https://github.com/aditya4635)
-- **MEMBER_4** - 2023UME4605 - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_5** - 2023UME4605 - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_6** - 2023UME4005 - [@USERNAME](https://github.com/USERNAME)
+- **Arya Ratnam** - 2023UME4179 - [@AaryaRatnam](https://github.com/AaryaRatnam)
+- **Vivek Goswami** - 2023UEE4605- [@VivianakaVivek](https://github.com/VivianakaVivek)
+- **Aditya Bhandari** - 2023UEE4635 - [@aditya4635](https://github.com/aditya4635)
+- **Rudra Pratap Jha** - 2023UME4158 - [@Ay-2027](https://github.com/Ay-2027)
+- **Ayush Kumar** - 2023UME4207 - [@rpj33](https://github.com/rpj33)
+- **Pankhuri kanda** - 2023UME4212 - [@pankhuri1806](https://github.com/pankhuri1806)
 
 ## Project Links
 
