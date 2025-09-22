@@ -1,4 +1,4 @@
-# 
+# Disaster Response Drone for Remote Areas 
 
 This project uses a Raspberry Pi, a camera, and a TensorFlow Lite model to perform real-time object detection for drone obstacle avoidance. The script detects objects, estimates their proximity, and sends `DISTANCE_SENSOR` messages to a Pixhawk flight controller (running ArduPilot) via MAVLink to trigger its built-in avoidance routines.
 
