@@ -21,10 +21,9 @@ This project uses a Raspberry Pi, a camera, and a TensorFlow Lite model to perfo
 
 ## Project Links
 
-- **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
-- **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
-- **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+- **SIH Presentation:** https://github.com/aditya4635/SkyAid/blob/main/Files/SkyAid_SIH_2025%5B1%5D.pptx
+- **Video Demonstration:** https://youtube.com/shorts/nQyzOGmcau0?feature=shared
+- **Source Code:** https://github.com/aditya4635/SkyAid
+  
 
 
